@@ -1,4 +1,4 @@
-<div class="noop-random-posts"><script type="text/javascript">
+<script type="text/javascript">
     
 
 
@@ -20,4 +20,4 @@
     }document.write('</ul>');}
     </script>
 
-<script type="text/javascript" src="/feeds/posts/default?alt=json-in-script&start-index=1&max-results=1000&callback=nooprandomposts"></script></div>
+<script type="text/javascript" src="/feeds/posts/default?alt=json-in-script&start-index=1&max-results=1000&callback=nooprandomposts"></script>
