@@ -1,4 +1,4 @@
-<script type="text/javascript">
+
     
 
 
@@ -18,6 +18,6 @@
       var item = "<div class='tag-abso'>" + "<a href=" + "'" + "/search/label/" + entry.category[0].term  + "'" + ">" + entry.category[0].term + "</a>" + "</div>" + "<li>" + "<a href=" + entry.link[k].href + ">" + "<p>" + entry.title.$t + "</p></a></li>";
     document.write(item);}}
     }document.write('</ul>');}
-    </script>
 
-<script type="text/javascript" src="/feeds/posts/default?alt=json-in-script&start-index=1&max-results=1000&callback=nooprandomposts"></script>
+
+ 
